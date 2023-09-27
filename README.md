@@ -1,29 +1,38 @@
 # Projeto Pong
 
-## Descrição do Projeto
+## Descrição do Jogo
+Este é um clone do icônico jogo "Pong" lançado pela Atari em 1972. Pong é um jogo de arcade clássico que simula um jogo de pingue-pongue, onde os jogadores controlam raquetes para rebater uma bola de um lado para o outro da tela. O objetivo é marcar pontos fazendo com que a bola passe pelo adversário.
 
-Este Projeto Pong foi concebido com finalidades educativas, visando o aprimoramento da compreensão da lógica de programação e sua aplicação na linguagem JavaScript.
+## Como Jogar
+### Controles
+- Use as teclas de seta para cima e para baixo (ou as teclas "W" e "S") para controlar a raquete do jogador 1.
+- Use as teclas "W" e "S" para controlar a raquete do jogador 2.
 
-O jogo Pong é um dos mais icônicos e simples jogos eletrônicos da história, tendo sido criado em 1972 pela empresa Atari. Ele é um jogo de arcade em que dois jogadores controlam "paletas" ou "raquetes" que se movem verticalmente nos lados opostos da tela. O objetivo principal do jogo é rebater uma bola de um lado para o outro, evitando que a bola passe pela paleta do adversário.
+- O jogador 1 tenta evitar que a bola passe por sua raquete, movendo-a para cima e para baixo.
+- O jogador 2 faz o mesmo com sua raquete.
 
-As regras básicas do Pong incluem:
+### Pontuação
+- Cada vez que a bola passa pela raquete adversária e atinge a extremidade da tela, o jogador pontua um ponto.
 
-Pontuação: Cada vez que um jogador deixa a bola passar por sua raquete, o adversário marca um ponto.
+## Requisitos de Sistema
+Este jogo é desenvolvido em JavaScript e pode ser executado em navegadores modernos, como Chrome, Firefox, Safari e Edge. Não são necessários requisitos de sistema especiais, desde que você tenha um navegador atualizado instalado em seu dispositivo.
 
-Movimento das Raquetes: Os jogadores usam controles simples para mover suas raquetes para cima ou para baixo, a fim de acertar a bola.
+## Instalação
+Clone ou faça o download deste repositório em seu computador.
 
-Bola: A bola rebate nas paredes superiores e inferiores da tela e também nas raquetes dos jogadores.
+Navegue até o diretório onde os arquivos do jogo estão localizados.
 
-##  Funcionalidades do Projeto
+Abra o arquivo "index.html" em seu navegador.
 
-Nesse projeto, as teclas para controlar as raquetes são:
-- Seta Para Cima/Seta Para Baixo: Controla a raquete do lado esquerdo;
-- W/S: Controla a raquete do lado direito.
+Divirta-se jogando Pong Clone!
 
-## Acesso ao Projeto
-
-Você pode conferir o jogo em tela cheia no link:
-https://editor.p5js.org/LeticiaGallucci/full/817begcyM
+## Créditos
+Este clone do jogo Pong foi desenvolvido por Leticia Gallucci. O jogo é uma homenagem ao clássico original e foi criado para fins de aprendizado e entretenimento.
 
 ## Licença
-O Projeto Pong é licenciado pelo MIT .
+Este jogo é distribuído sob a MIT e está disponível gratuitamente para uso pessoal.
+
+## Sugestões e Problemas
+Se você tiver sugestões de melhorias ou encontrar algum problema ao jogar, sinta-se à vontade para relatar seu feedback.
+
+Divirta-se jogando o Pong Clone e reviva a nostalgia dos jogos clássicos de arcade
